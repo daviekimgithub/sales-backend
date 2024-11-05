@@ -5,8 +5,8 @@ This full E-Commerce API build using Express and Mongo. Here it contains all the
 ## Setup
  
 ```
-    $ git clone https://github.com/dinushchathurya/nodejs-ecommerce-api.git
-    $ cd nodejs-ecommerce-api
+    $ git clone https://github.com/daviekimgithub/sales-backend.git
+    $ cd sales-backend
     $ npm install
 ```
   - Duplicate and database.configexample.js as database.confi.js and fill in environment variables
@@ -212,37 +212,6 @@ This full E-Commerce API build using Express and Mongo. Here it contains all the
 ### * Delete Single Order
 
 `DELETE |  /api/v1/orders/{id}` 
-
-## Author
-[Dinush Chathurya](https://dinushchathurya.github.io/)
-
-## License
-
-Copyright (c) 2020 <a href="https://dinushchathurya.github.io/">Dinush Chathurya</a> and <a href="https://codingtricks.io/">codingtricks.io</a>
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## Blog
-
-https://codingtricks.io/
-
 
 ## 
 
